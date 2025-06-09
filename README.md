@@ -42,11 +42,13 @@ To identify the key factors influencing customer churn, segment customers based 
 8. Customers and Churn Rate by Account Balance
 
  Slicers:
-
+- Churn
     
 ## Data Visualization 
-![dataset]()
+![dataset](https://github.com/Ola-ykay/Customer-Churn/blob/main/customer-churn-dataset.png)
 
-![table]()
+![table](https://github.com/Ola-ykay/Customer-Churn/blob/main/customer-churn-table.png)
 
-![dashboard]()
+![dashboard](https://github.com/Ola-ykay/Customer-Churn/blob/main/customer-churn-dashboard-1.png)
+
+![dashboard](https://github.com/Ola-ykay/Customer-Churn/blob/main/customer-churn-dashboard-2.png)
