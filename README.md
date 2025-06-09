@@ -15,7 +15,7 @@ This project focuses on analyzing customer churn for a banking institution using
 
 
 ## Goal
-To identify the key factors influencing customer churn, segment customers based on risk, and visualize churn patterns through interactive Power BI dashboards.
+To identify the factors that influence customer churn and uncover trends across customer segments.
 
 ## Objectives
 - Identify churn trends across demographics and account features.
