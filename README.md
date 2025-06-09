@@ -23,7 +23,7 @@ To identify the factors that influence customer churn and uncover trends across 
 - Create a dynamic dashboard to explore churn drivers interactively.
 
 ## Tools Used
- - Microsoft Power Bi: For interactive dashboards and DAX-based KPI creation.
+ - Microsoft Power BI: For interactive dashboards and DAX-based KPI creation.
  - Power Query: Data processing
 
  ## KPIs
