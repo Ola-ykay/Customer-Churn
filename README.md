@@ -34,7 +34,7 @@ To identify the factors that influence customer churn and uncover trends across 
  ## Insights
 1. Customers by Gender
 2. Customers by Products
-3. Customers by Gender
+3. Customers by Country
 4. Customers by Credit Card Status
 5. Customers and Churn Rate by Credit Scores
 6. Customers by Activity Status
